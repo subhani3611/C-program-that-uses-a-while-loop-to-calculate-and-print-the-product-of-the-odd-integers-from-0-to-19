@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int sum=0,n ,i=1;
+int n ,i=1;
 n=1;
 
 while(n<=19)
